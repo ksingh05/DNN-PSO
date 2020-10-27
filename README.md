@@ -18,3 +18,15 @@ This repository has details of the code used for "Accelerated Optimization of Cu
 Training Accuracy: 97.34% to predict withiin 10% of actual value
 Testing Accuracy: 95.84% to predict withiin 10% of actual value
 ```
+
+## Output of `run_shape_opt_using_DNN.py`
+
+```
+Loaded model from disk !!
+
+Running Optimization ....
+
+Shape Optimal Configuration:
+[0.168  0.581  0.006  0.081  0.67  -0.026]
+```
+The research paper would be made public once its accepted.
