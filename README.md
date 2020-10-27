@@ -12,14 +12,14 @@ This repository has details of the code used for "Accelerated Optimization of Cu
 
 `size_opt` folder has an example MSC.NASTRAN `.bdf` file for conducting the size optimization of the curvilinearly stiffened panel.
 
-## Output of `model_accuracy.py`
+## Example Output of `model_accuracy.py`
 
 ```
 Training Accuracy: 97.34% to predict withiin 10% of actual value
 Testing Accuracy: 95.84% to predict withiin 10% of actual value
 ```
 
-## Output of `run_shape_opt_using_DNN.py`
+## Example Output of `run_shape_opt_using_DNN.py`
 
 ```
 Loaded model from disk !!
