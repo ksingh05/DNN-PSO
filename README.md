@@ -1,4 +1,4 @@
-# DNN-PSO
+# Accelerated Optimization of Curvilinearly Stiffened Panels using Deep Learning
 
 This repository has details of the code used for "Accelerated Optimization of Curvilinearly Stiffened Panels using Deep Learning" (currently under review for Thin-walled Structures)
 
