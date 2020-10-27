@@ -8,11 +8,11 @@ from tensorflow.keras.layers import Dense, Activation
 
 # Define the model architecture 
 model = Sequential()
-model.add(Dense(int(float(90)), input_shape=(11,)))
+model.add(Dense(90, input_shape=(11,)))
 model.add(Activation('tanh'))
 
 for laye in range(1,6):
-    model.add(Dense(int(90)))
+    model.add(Dense(90))
     model.add(Activation('tanh'))
 
 model.add(Dense(1))
