@@ -11,3 +11,10 @@ This repository has details of the code used for "Accelerated Optimization of Cu
 `shape_opt` folder has the python code `run_shape_opt_using_DNN.py` which can do shape optimization of curvilinearly stiffened panel using trained DNN. 
 
 `size_opt` folder has an example MSC.NASTRAN `.bdf` file for conducting the size optimization of the curvilinearly stiffened panel.
+
+## Output of `model_accuracy.py`
+
+```
+Training Accuracy: 97.34% to predict withiin 10% of actual value
+Testing Accuracy: 95.84% to predict withiin 10% of actual value
+```
