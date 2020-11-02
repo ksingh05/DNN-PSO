@@ -27,6 +27,6 @@ Loaded model from disk !!
 Running Optimization ....
 
 Shape Optimal Configuration:
-[0.168  0.581  0.006  0.081  0.67  -0.026]
+...
 ```
 The research paper would be made public once its accepted.
